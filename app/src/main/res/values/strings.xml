@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">udptest0702</string>
+    <string name="received_messages">接收到的消息：\n</string>
+    <string name="hint_send_message">请输入要发送的消息</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_start_server">启动服务端</string>
+    <string name="btn_stop_server">停止服务端</string>
+</resources>
